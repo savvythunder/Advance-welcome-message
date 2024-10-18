@@ -1,0 +1,12 @@
+entrypoint = "main.py"
+modules = ["python-3.10"]
+
+hidden = [".pythonlibs"]
+
+[nix]
+channel = "stable-23_05"
+
+[deployment]
+run = ["python", "main.py"]
+deploymentTarget = "gce"
+ignorePorts = true
