@@ -17,7 +17,11 @@ Also:
 Flowchart of how buttons/menus connect if it helps:
 https://i.imgur.com/4ilNhSm.png
 
-Message imp#2573 if you find bugs so I can fix them.
+Message savvythunder219#2141 if you find bugs so I can fix them.
+
+credit: imptype
+        7b35c6769684fb68178e5719e5f81b6d
+        He is the official creator of this embedbuilder and i have taken this embedbuilder from a gist.
 """
 
 import io
