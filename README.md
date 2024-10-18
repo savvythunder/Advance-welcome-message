@@ -1,5 +1,7 @@
 # Advance-welcome-message
 A Highly advance welcome command with everything you wishes for. Advance embed builder, button interaction etc. 
+For any issue or help, feel free to message or connect with me on discord.
+id: savvythunder219#2141
 # Python Discord Bot
 
 This is a starting point for making your own Discord bot using Python and the [discordpy](https://discordpy.readthedocs.io/) library.
